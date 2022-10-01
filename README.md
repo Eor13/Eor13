@@ -1,7 +1,7 @@
 <div>
-  <a href="https://github.com/eor13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eor13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eor13&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/Eor13">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eor13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eor13&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,6 +17,6 @@
  <a href="https://discord.com/1003626889656664204" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/everson-de-oliveira-ribeiro-614121a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/eor13/eor13/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Eor13/Eor13/blob/output/github-contribution-grid-snake.svg)
 
 </div>
