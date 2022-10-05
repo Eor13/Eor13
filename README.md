@@ -2,13 +2,16 @@ Olá Pessoal
  Sou o Everson, estou em migração de carreira para área de tecnologia da informação.
  Estou à procura da minha primeira oportunidade como desenvolver Front-End Júnior.
   
-   
-Passatempo:
- - Jogar videogame;
- - Estudar;
- - Assistir filmes e series;
- - Ficar com a família;
-
+<div> 
+ <strong>Passatempo:</strong>
+ <ul>
+  <li>Jogar videogame;</li>
+  <li>Estudar;</li>
+  <li>Assistir filmes e series;</li>
+  <li>Ficar com a família;</li>
+ </ul>
+</div>
+ 
 Habilidades comportamentais:
  - Flexível
  - Organizado
