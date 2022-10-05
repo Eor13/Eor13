@@ -12,13 +12,18 @@ Olá Pessoal
  </ul>
 </div>
  
-Habilidades comportamentais:
- - Flexível
- - Organizado
- - Proativo
- - Calmo
- - Resiliência
- - Trabalho em equipe
+ <div> 
+ <strong>Habilidades comportamentais:</strong>
+ <ul>
+  <li>Flexível</li>
+  <li>Organizado</li>
+  <li>Proativo</li>
+  <li>Calmo</li>
+  <li>Resiliência</li>
+  <li>Trabalho em equipe</li>
+ </ul>
+</div>
+
 <div>
   <a href="https://github.com/Eor13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eor13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
