@@ -1,4 +1,21 @@
 Olá Pessoal
+ Sou o Everson, estou em migração de carreira para área de tecnologia da informação.
+ Estou à procura da minha primeira oportunidade como desenvolver Front-End Júnior.
+  
+   
+Passatempo:
+ - Jogar videogame;
+ - Estudar;
+ - Assistir filmes e series;
+ - Ficar com a família;
+
+Habilidades comportamentais:
+ - Flexível
+ - Organizado
+ - Proativo
+ - Calmo
+ - Resiliência
+ - Trabalho em equipe
 <div>
   <a href="https://github.com/Eor13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eor13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
