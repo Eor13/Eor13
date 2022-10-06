@@ -1,6 +1,5 @@
 <h1>Olá Pessoal!</h1>
- <p><Sou o Everson, estou em migração de carreira para área de tecnologia da informação. <br> Estou à procura da minha primeira oportunidade como desenvolver Front-End Júnior.</p>
-<div>  
+ <p><Sou o Everson, estou em migração de carreira para área de tecnologia da informação. <br> Estou à procura da minha primeira oportunidade como desenvolver Front-End Júnior.</p> 
  <div> 
   <strong>Passatempo:</strong>
   <ul>
@@ -10,7 +9,7 @@
    <li>Ficar com a família;</li>
   </ul>
  </div> 
- <div> 
+ <div style="display: inline_block"> 
   <strong>Habilidades comportamentais:</strong>
   <ul>
    <li>Flexível</li>
@@ -21,7 +20,6 @@
    <li>Trabalho em equipe</li>
   </ul>
  </div>
-</div>
 
 <div>
   <a href="https://github.com/Eor13">
