@@ -1,6 +1,6 @@
 <h1>Olá Pessoal! &#x1F44B;</h1> 
  <p><Sou o Everson, estou em migração de carreira para área de tecnologia da informação. <br> Estou à procura da minha primeira oportunidade como desenvolver Front-End Júnior.</p> 
-<div style="display: inline"> 
+
  <div style="display: inline_block"> 
   <strong>Passatempo: &#x2728;</strong>
   <ul>
@@ -21,7 +21,7 @@
    <li>Trabalho em equipe</li>
   </ul>
  </div>
-</div>
+
 
 <div>
   <a href="https://github.com/Eor13">
