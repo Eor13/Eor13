@@ -1,7 +1,7 @@
 <h1>Olá Pessoal! &#x1F44B;</h1> 
  <p><Sou o Everson, estou em migração de carreira para área de tecnologia da informação. <br> Estou à procura da minha primeira oportunidade como desenvolver Front-End Júnior.</p> 
 
- <div style="display: inline_block"> 
+ <div> 
   <strong>Passatempo: &#x2728;</strong>
   <ul>
    <li>Jogar videogame;</li>
@@ -10,6 +10,7 @@
    <li>Ficar com a família;</li>
   </ul>
  </div> 
+ 
  <div style="display: inline_block"> 
   <strong>Habilidades comportamentais: &#x2728;</strong>
   <ul>
