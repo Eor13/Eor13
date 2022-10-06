@@ -1,27 +1,26 @@
-Olá Pessoal
- Sou o Everson, estou em migração de carreira para área de tecnologia da informação.
- Estou à procura da minha primeira oportunidade como desenvolver Front-End Júnior.
-  
-<div> 
- <strong>Passatempo:</strong>
- <ul>
-  <li>Jogar videogame;</li>
-  <li>Estudar;</li>
-  <li>Assistir filmes e series;</li>
-  <li>Ficar com a família;</li>
- </ul>
-</div>
- 
+<h1>Olá Pessoal!</h1>
+ <p><Sou o Everson, estou em migração de carreira para área de tecnologia da informação. <br> Estou à procura da minha primeira oportunidade como desenvolver Front-End Júnior.</p>
+<div>  
  <div> 
- <strong>Habilidades comportamentais:</strong>
- <ul>
-  <li>Flexível</li>
-  <li>Organizado</li>
-  <li>Proativo</li>
-  <li>Calmo</li>
-  <li>Resiliência</li>
-  <li>Trabalho em equipe</li>
- </ul>
+  <strong>Passatempo:</strong>
+  <ul>
+   <li>Jogar videogame;</li>
+   <li>Estudar;</li>
+   <li>Assistir filmes e series;</li>
+   <li>Ficar com a família;</li>
+  </ul>
+ </div> 
+ <div> 
+  <strong>Habilidades comportamentais:</strong>
+  <ul>
+   <li>Flexível</li>
+   <li>Organizado</li>
+   <li>Proativo</li>
+   <li>Calmo</li>
+   <li>Resiliência</li>
+   <li>Trabalho em equipe</li>
+  </ul>
+ </div>
 </div>
 
 <div>
